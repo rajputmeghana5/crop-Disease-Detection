@@ -1,0 +1,6 @@
+venv/
+dataset/
+model/
+outputs/
+__pycache__/
+*.pyc
